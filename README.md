@@ -20,7 +20,7 @@ PierPulse lets other people **see and work on the files on your computer**, from
 The whole idea fits in four steps:
 
 1. **You host.** Open [pierpulse.com](https://pierpulse.com), pick the folders (or whole drives) you want to share, and a "pier" opens for your session.
-2. **You invite.** Send the session link to your crew — coworkers, clients, friends.
+2. **You invite.** Send the session link to your crew - coworkers, clients, friends.
 3. **They dock.** Guests open the link in any browser. Nothing to install, no account to create.
 4. **You work together.** Everyone browses the same files at the same time, edits documents together, and talks it over in the chat sidebar.
 
@@ -34,23 +34,23 @@ Think of it like letting a friend look over your shoulder at your screen, except
 
 ### One file browser, shared live
 
-Everyone in the session sees the same folder at the same time. You can feel the room: a quiet "3 people are viewing this folder" presence line, typing indicators in chat, and one-click jumps — mention a file in chat and everyone can fly straight to it. If you'd rather tour than wander, **Follow mode** lets one person drive while the rest ride along, with the option to hand the wheel over at any time.
+Everyone in the session sees the same folder at the same time. You can feel the room: a quiet "3 people are viewing this folder" presence line, typing indicators in chat, and one-click jumps - mention a file in chat and everyone can fly straight to it. If you'd rather tour than wander, **Follow mode** lets one person drive while the rest ride along, with the option to hand the wheel over at any time.
 
 ### A chat that lives next to your files
 
-The sidebar is scoped to wherever you are — the conversation in `Invoices` stays in `Invoices`. React to messages, send voice notes when typing is too slow, and paste screenshots you can annotate with a quick markup tool before sending. Need to decide something? Fire a quick poll, and the result lands in a **decision log** so it doesn't get lost in the scroll. A **pinned-files shelf** keeps the important stuff one click away.
+The sidebar is scoped to wherever you are - the conversation in `Invoices` stays in `Invoices`. React to messages, send voice notes when typing is too slow, and paste screenshots you can annotate with a quick markup tool before sending. Need to decide something? Fire a quick poll, and the result lands in a **decision log** so it doesn't get lost in the scroll. A **pinned-files shelf** keeps the important stuff one click away.
 
 ### PDFs, reviewed together
 
-Open a PDF with your crew and page turns stay in sync — nobody is ever "wait, which page are you on?" Draw on it live, with everyone's ink in their own color. Need surgery instead of comments? The page toolkit reorders, rotates, deletes, extracts, and merges pages. Export with the ink burned in when you're done.
+Open a PDF with your crew and page turns stay in sync - nobody is ever "wait, which page are you on?" Draw on it live, with everyone's ink in their own color. Need surgery instead of comments? The page toolkit reorders, rotates, deletes, extracts, and merges pages. Export with the ink burned in when you're done.
 
 ### Office files, no Office needed
 
-Open, view, **and edit** Word (`.docx`), Excel (`.xlsx`), and PowerPoint (`.pptx`) files directly in the browser. When you save, the edited file goes right back onto the host's drive — the original, in place. No exports, no downloads, no `final_v7_REAL_this_time.docx`.
+Open, view, **and edit** Word (`.docx`), Excel (`.xlsx`), and PowerPoint (`.pptx`) files directly in the browser. When you save, the edited file goes right back onto the host's drive - the original, in place. No exports, no downloads, no `final_v7_REAL_this_time.docx`.
 
 ### Dock every drive you own
 
-**Multi-Drive Docking** lets the host dock several drives or folders at once — `C:`, `D:`, `F:`, an external disk — and the whole crew moves between them like ordinary folders. Your entire computer becomes one shared workspace.
+**Multi-Drive Docking** lets the host dock several drives or folders at once - `C:`, `D:`, `F:`, an external disk — and the whole crew moves between them like ordinary folders. Your entire computer becomes one shared workspace.
 
 ### Never miss a thing
 
@@ -89,33 +89,29 @@ Late to the session? **Catch-me-up replay** shows you what was opened, said, and
 3. Send the invite link to your crew
 4. They open it. That's the whole setup.
 
-**Run the app yourself:**
-
-The entire application ships as a single HTML file — no build step, no dependencies, no install wizard. Download `index.html`, serve it (or just open it), and you're running the same app as the website.
-
 **Good to know:**
 
 - **Hosting** works in desktop Chrome, Edge, or Opera (they support direct, safe read/write access to local files).
-- **Guests** can join from any modern browser — desktop or phone.
+- **Guests** can join from any modern browser - desktop or phone.
 
 ---
 
 ## FAQ
 
 **"So where do my files actually go?"**
-Nowhere. That is the entire point. Files are read from the host's disk, streamed through the relay to your guests' screens, and edited versions are saved back to the host's disk. Nothing is stored on any server along the way. When the session ends, the files exist only on the host's computer — same as before it started.
+Nowhere. That is the entire point. Files are read from the host's disk, streamed through the relay to your guests' screens, and edited versions are saved back to the host's disk. Nothing is stored on any server along the way. When the session ends, the files exist only on the host's computer - same as before it started.
 
 **"What happens when the host goes offline?"**
 The pier closes. Guests lose access immediately, because there is no copy of the files anywhere else to fall back on. Reopen a session whenever you like.
 
 **"Can guests edit my files?"**
-Only if you grant edit permission — you stay in control of who can view and who can change things.
+Only if you grant edit permission - you stay in control of who can view and who can change things.
 
 **"Do I need an account?"**
 No. No sign-up, no login, no profile. Open the site and start.
 
 **"Is it free?"**
-Right now, yes — PierPulse is completely free to use.
+Right now, yes - PierPulse is completely free to use.
 
 **"Which files can we work on together?"**
 Folders, images, PDFs, and Microsoft Office documents (Word, Excel, PowerPoint). More formats are on the way.
@@ -133,4 +129,4 @@ Folders, images, PDFs, and Microsoft Office documents (Word, Excel, PowerPoint).
 MIT license
 ---
 
-*PierPulse — the heartbeat of your workspace.*
+*PierPulse - the heartbeat of your workspace.*
