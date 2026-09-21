@@ -9,7 +9,7 @@
 ![Single file app](https://img.shields.io/badge/app-a%20single%20HTML%20file-orange)
 ![Accounts](https://img.shields.io/badge/accounts-not%20needed-blue)
 
-![PierPulse in light mode](readme-assets/screenshot-light.png)
+![PierPulse in light mode](https://github.com/LMLK-seal/PierPulse.com/blob/main/Screenshot.png?raw=true)
 
 ---
 
