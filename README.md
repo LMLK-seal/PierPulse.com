@@ -1,4 +1,4 @@
-# PierPulse
+# PierPulse.com
 
 > **Your computer is the cloud.**
 > Browse, discuss, and edit files together with anyone - right in the browser.
