@@ -24,7 +24,7 @@ The whole idea fits in four steps:
 3. **They dock.** Guests open the link in any browser. Nothing to install, no account to create.
 4. **You work together.** Everyone browses the same files at the same time, edits documents together, and talks it over in the chat sidebar.
 
-The important part: **your files never leave your computer.** They are not copied to Google Drive, Dropbox, or any server. While the pier is open, PierPulse streams your files straight from your machine to your guests. When you close it, your files exist in exactly one place — yours.
+The important part: **your files never leave your computer.** They are not copied to Google Drive, Dropbox, or any server. While the pier is open, PierPulse streams your files straight from your machine to your guests. When you close it, your files exist in exactly one place - yours.
 
 Think of it like letting a friend look over your shoulder at your screen, except they can be on another continent, and you can both point at the same spreadsheet and argue about cell B7 in real time.
 
