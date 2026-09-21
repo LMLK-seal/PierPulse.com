@@ -50,7 +50,7 @@ Open, view, **and edit** Word (`.docx`), Excel (`.xlsx`), and PowerPoint (`.pptx
 
 ### Dock every drive you own
 
-**Multi-Drive Docking** lets the host dock several drives or folders at once - `C:`, `D:`, `F:`, an external disk — and the whole crew moves between them like ordinary folders. Your entire computer becomes one shared workspace.
+**Multi-Drive Docking** lets the host dock several drives or folders at once - `C:`, `D:`, `F:`, an external disk - and the whole crew moves between them like ordinary folders. Your entire computer becomes one shared workspace.
 
 ### Never miss a thing
 
@@ -76,7 +76,7 @@ Late to the session? **Catch-me-up replay** shows you what was opened, said, and
 
 - The host's browser reads files directly from the host computer, and saves every edit back to it.
 - The relay is a hallway, not a warehouse: it forwards traffic between host and guests and keeps nothing.
-- When the host closes the pier, guest access ends — and since nothing was ever copied anywhere, there is nothing to clean up.
+- When the host closes the pier, guest access ends - and since nothing was ever copied anywhere, there is nothing to clean up.
 
 ---
 
