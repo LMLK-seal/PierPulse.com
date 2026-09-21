@@ -1,7 +1,7 @@
 # PierPulse
 
 > **Your computer is the cloud.**
-> Browse, discuss, and edit files together with anyone — right in the browser.
+> Browse, discuss, and edit files together with anyone - right in the browser.
 > No uploads. No cloud storage. No accounts.
 
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fpierpulse.com)](https://pierpulse.com)
@@ -119,14 +119,6 @@ Right now, yes — PierPulse is completely free to use.
 
 **"Which files can we work on together?"**
 Folders, images, PDFs, and Microsoft Office documents (Word, Excel, PowerPoint). More formats are on the way.
-
----
-
-## Screenshots
-
-| Light | Dark | Mobile |
-|:-----:|:----:|:------:|
-| ![Light theme](readme-assets/screenshot-light.png) | ![Dark theme](readme-assets/screenshot-dark.png) | ![Mobile](readme-assets/screenshot-mobile.png) |
 
 ---
 
